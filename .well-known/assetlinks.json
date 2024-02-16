@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.atulkumar.khati_hangout_app",
+      "sha256_cert_fingerprints":
+      ["CD:3B:72:C3:AB:FC:DB:52:5B:4E:21:21:CE:C0:42:6B:D9:CA:17:E6:90:4D:44:52:A4:4C:EB:1B:C3:29:A9:57"]
+    }
+  }]
+  
